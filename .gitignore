@@ -1,0 +1,76 @@
+# Default
+/.phpunit.cache
+/node_modules
+/public/build
+/public/hot
+/public/storage
+/storage/*.key
+/vendor
+.env
+.env.backup
+.env.production
+.phpunit.result.cache
+Homestead.json
+Homestead.yaml
+auth.json
+npm-debug.log
+yarn-error.log
+/.fleet
+/.idea
+/.vscode
+
+# Environment
+.env
+.env.*.local
+.env.local
+.env.testing
+.env.production
+
+# Log files
+/storage/logs/
+*.log
+
+# Cache, sessions, and views
+/storage/framework/cache/
+/storage/framework/sessions/
+/storage/framework/views/
+
+# Database files
+/database/database.sqlite
+/database/database.sqlite-journal
+
+# Node modules and build files
+/node_modules/
+/public/hot
+/public/storage
+/public/mix-manifest.json
+/public/css/
+/public/js/
+/public/mix-manifest.json
+
+# Composer dependencies
+/vendor/
+
+# Coverage reports
+/coverage/
+
+# IDE and system files
+/.vscode/
+/.idea/
+/*.sublime-workspace
+/.DS_Store
+/.phpunit.result.cache
+
+# Docker files (if used)
+/docker/
+
+# Database seeds and migrations (optional, based on your project structure)
+/database/seeders/
+/database/factories/
+/database/migrations/
+
+# Botman specific (if using cache or session storage)
+/botman/cache/
+public/chatbot-nlp11950111676-a617ceb0897f.json
+public/chatbot-nlp11950111676-a617ceb0897f.json
+public/chatbot-nlp11950111676-a617ceb0897f.json
