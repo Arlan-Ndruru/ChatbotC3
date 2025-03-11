@@ -1,6 +1,11 @@
-# ChatbotC3
-https://doi.org/10.33751/komputasi.v20i2.8281 (Jurnal)
+# Chatbot C3 PTIPD UIN SUSKA RIAU
+
 ChatbotC3 adalah proyek chatbot berbasis Laravel menggunakan Botman dan Dialogflow untuk mendukung interaksi percakapan cerdas.
+
+https://doi.org/10.33751/komputasi.v20i2.8281 (Jurnal)
+## Tampilan di Telegram
+![Tampilan Chatbot](https://raw.githubusercontent.com/Arlan-Ndruru/ChatbotC3/main/public/IMG1.png)
+![Tampilan Chatbot](https://raw.githubusercontent.com/Arlan-Ndruru/ChatbotC3/main/public/IMG2.png)
 
 ## Fitur (Fitur dapat dijalankan dengan izin creator)
 - Integrasi dengan Botman
