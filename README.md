@@ -4,8 +4,8 @@ ChatbotC3 adalah proyek chatbot berbasis Laravel menggunakan Botman dan Dialogfl
 
 https://doi.org/10.33751/komputasi.v20i2.8281 (Jurnal)
 ## Tampilan di Telegram
-![Tampilan Chatbot](public/img1.jpg)
-![Tampilan Chatbot](public/img2.jpg)
+![Tampilan Chatbot]<img src="public/img1.jpg" alt="Tampilan Chatbot Telegram" width="300" />
+![Tampilan Chatbot]<img src="public/img2.jpg" alt="Tampilan Chatbot Telegram" width="300" />
 
 ## Fitur (Fitur dapat dijalankan dengan izin creator)
 - Integrasi dengan Botman
